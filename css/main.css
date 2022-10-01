@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+footer {
+  align-content: center;
+  align-items: center; }
+
+* {
+  font-family: poppins, sans-serif;
+  text-align: center; }
+
+.map {
+  margin: 30px; }
+
+.hero {
+  width: 300px; }
+
+.carousel slide carousel-fade img {
+  width: 300px; }
